@@ -3,7 +3,7 @@
 Me chamo Damião, atualmente tenho 25 anos e segue alguns dados legais sobre mim abaixo:
 
 - 🔭 Hoje trabalho como Técnico de TI maaaaaas,
-- 🌱 estudo programação a algum tempo, principalmente C# e .NET 😊
+- 🌱 estudo programação a algum tempo, principalmente JAVA focado em Spring 😊
 - 👯 Quero muito trabalhar na área de desenvolvimento!
 - 🤔 E para isso preciso de sua ajuda 🙋‍♂️
 - 💬 Me contate via email: damiao.jose@hotmail.com
