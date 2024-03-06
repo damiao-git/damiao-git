@@ -1,6 +1,6 @@
 ### Olá, como está? 👋
 
-Me chamo Damião, atualmente tenho 25 anos e segue alguns dados legais sobre mim abaixo:
+Me chamo Damião, atualmente tenho 27 anos e segue alguns dados legais sobre mim abaixo:
 
 - 🔭 Hoje trabalho como Técnico de TI maaaaaas,
 - 🌱 estudo programação a algum tempo, principalmente JAVA focado em Spring 😊
