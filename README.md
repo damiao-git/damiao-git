@@ -2,8 +2,8 @@
 
 Me chamo Damião, atualmente tenho 27 anos e segue alguns dados legais sobre mim abaixo:
 
-- 🔭 Hoje trabalho como Programador Full Stack PHP
-- 🌱 estudo programação a algum tempo, principalmente PHP focado em Laravel 😊
+- 🔭 Hoje trabalho como Programador Full Stack PHP maaaaaaaaaas...
+- 🌱 estudo programação a algum tempo, principalmente Java focado em Spring 😊
 - 👯 Quero muito crescer na área de desenvolvimento!
 - 🤔 E para isso preciso de sua ajuda 🙋‍♂️
 - 💬 Me contate via email: damiao.jose@hotmail.com
