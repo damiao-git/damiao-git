@@ -3,7 +3,7 @@
 Me chamo Damião, atualmente tenho 27 anos e segue alguns dados legais sobre mim abaixo:
 
 - 🔭 Hoje trabalho como Programador Full Stack PHP maaaaaaaaaas...
-- 🌱 estudo programação a algum tempo, principalmente Java focado em Spring 😊
+- 🌱 estudo programação a algum tempo e estou desenvolvendo o VueJS e Java com Spring 😊
 - 👯 Quero muito crescer na área de desenvolvimento!
 - 🤔 E para isso preciso de sua ajuda 🙋‍♂️
 - 💬 Me contate via email: damiao.jose@hotmail.com
